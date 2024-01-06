@@ -16,7 +16,7 @@ const Contact = () => {
       };
 
     return (
-    <Box margin={"50px 0px 20px 0"}>
+    <Box margin={"30px 0px 20px 0"}>
         <Heading fontSize={"23px"}>🛒 赶快 DM 我们下单吧 🛒</Heading>  
         <HStack margin="20px" display={"flex"} justifyContent={"center"}>
             <Link marginX="10px" href='https://web.whatsapp.com/send?phone=+60127892007' isExternal>

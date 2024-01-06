@@ -6,7 +6,7 @@ const Header = () => {
         <HStack justifyContent="space-between">
             <HStack>
               <Image src={"pineapple.png"} boxSize='30px'/> 
-              <Text>凤梨酥 🇧🇾 Shireen & Albert</Text>
+              <Text>凤梨酥 <Text display={"inline-block"} fontSize={"13px"}>By</Text> Shireen & Albert</Text>
             </HStack>
             <ColorModeSwitch />
         </HStack>

@@ -10,7 +10,7 @@ const Chef = () => {
 
         <Box display={"flex"} justifyContent={"space-evenly"} alignItems="center" flexDirection={"column"}>
           
-          <HStack marginY="20px">
+          <HStack height={"200px"}>
             <VStack width={"100px"} marginX="10px">
               <Image 
                 src={"/shireen.png"} 
@@ -40,7 +40,7 @@ const Chef = () => {
             />
           </HStack>
 
-          <HStack >
+          <HStack height={"200px"}>
             <VStack width={"100px"} marginX="10px">
                 <Image 
                   src={"/albert.png"} 
