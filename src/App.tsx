@@ -5,7 +5,6 @@ import Header from './components/Header'
 import Intro from './components/Intro'
 import SwiperSlider from './components/SwiperSlide/SwiperSlider'
 
-
 function App() {
 
   return (
